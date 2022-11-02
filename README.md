@@ -1,6 +1,6 @@
 # Train-Scheduler
 
-Read in station data/train data and provide features for data retrieval between two nodes.
+Read in station data/train data and provide features for data retrieval between two nodes. This project helped solidify my understanding of linked lists and structs.
 
 # Details
 
